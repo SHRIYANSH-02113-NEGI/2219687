@@ -13,3 +13,5 @@ This is a basic React application to shorten URLs. Users can enter long URLs, se
 ## How to Run
 
 1. Install dependencies:
+```bash
+   npm install
